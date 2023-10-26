@@ -14,3 +14,28 @@ Learn how to use swig in golang by following the official examples of swig. Out 
 - extend. Polymorphism using directors.
 - director. Example how to utilize the director feature.
 - director. Example how to use goin and godirectorin.
+
+## Test Env
+```text
+# sw_vers
+ProductName:		macOS
+ProductVersion:		14.0
+BuildVersion:		23A344
+```
+
+```text
+# go version
+go version go1.21.3 darwin/arm64
+```
+
+```text
+# swig -version
+
+SWIG Version 4.1.1
+
+Compiled with clang++ [aarch64-apple-darwin22.1.0]
+
+Configured options: +pcre
+
+Please see https://www.swig.org for reporting bugs and further information
+```
