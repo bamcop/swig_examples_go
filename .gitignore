@@ -34,7 +34,7 @@ example_wrap.cxx
 
 simple/simple.go
 constants/constants.go
-enum/pkg_enum.go
+pkg_enum/pkg_enum.go
 pkg_class/pkg_class.go
 funcptr/funcptr.go
 goin/goin.go

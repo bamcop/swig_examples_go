@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	. "github.com/bamcop/swig_examples_go/enum"
+	. "github.com/bamcop/swig_examples_go/pkg_enum"
 )
 
 func TestMain(t *testing.T) {
