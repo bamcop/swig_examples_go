@@ -41,3 +41,4 @@ goin/goin.go
 goin/example_wrap.h
 pointer/pointer.go
 reference/reference.go
+pkg_template/pkg_template.go
