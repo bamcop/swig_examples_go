@@ -28,3 +28,6 @@ go.work.sum
 # Custom
 .kmg.scripts.js
 *.sqlite.json
+
+simple/example_wrap.c
+simple/simple.go

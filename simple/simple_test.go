@@ -1,12 +1,13 @@
-package main
+package simple_test
 
 import (
 	"fmt"
+	"testing"
 
-	"swigtests/example"
+	example "github.com/bamcop/swig_examples_go/simple"
 )
 
-func main() {
+func TestName(t *testing.T) {
 	// Call our gcd() function
 	x := 42
 	y := 105
