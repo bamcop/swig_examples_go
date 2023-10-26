@@ -40,3 +40,4 @@ funcptr/funcptr.go
 goin/goin.go
 goin/example_wrap.h
 pointer/pointer.go
+reference/reference.go
