@@ -47,3 +47,5 @@ callback/callback.go
 callback/example_wrap.h
 pkg_extend/example_wrap.h
 pkg_extend/pkg_extend.go
+pkg_director/pkg_director.go
+pkg_director/example_wrap.h
