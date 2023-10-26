@@ -39,3 +39,4 @@ pkg_class/pkg_class.go
 funcptr/funcptr.go
 goin/goin.go
 goin/example_wrap.h
+pointer/pointer.go
